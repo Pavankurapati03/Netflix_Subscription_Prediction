@@ -35,7 +35,7 @@ Predicting subscription trends is crucial for Netflix's success. With accurate f
 
 ## How to Use
 
-You can explore the project's Jupyter notebooks to dive into the data analysis, ARIMA modeling, and interactive visualizations. Feel free to adapt this model to your own dataset or extend its capabilities.
+You can explore the project's Intel oneAPI Jupyter notebooks to dive into the data analysis, ARIMA modeling, and interactive visualizations. Feel free to adapt this model to your own dataset or extend its capabilities.
 
 ## Contribute
 We welcome contributions to enhance this project. Whether you have ideas for improving the model, adding more interactive features, or refining visualizations, your input is valuable. Let's work together to make this tool even more insightful and user-friendly.
