@@ -6,7 +6,21 @@
 
 Welcome to the Netflix Subscription Prediction project! In this project, we leverage data science and machine learning techniques to forecast whether a user is likely to subscribe to Netflix. Our focus is not just on building accurate predictions but also on presenting the results in a user-friendly and understandable way.
 
-**Key Features:**
+## Table of Contents
+
+- [Data](#data)
+- [Key Features](#Keyfeatures)
+- [How It Works](#HowItWorks)
+- [Why It Matters](#whyitmatters)
+- [How To Use](#howtouse)
+- [Installation](#installation)
+- [Contributing](#contributing)
+
+## Data
+
+The project uses historical gold price data from reliable sources such as https://statso.io/forecasting-subscriptions-case-study/. This dataset contains information about gold prices over a specific time period and date.
+
+## Key Features
 
 1. **ARIMA Model**: We've employed the powerful ARIMA (AutoRegressive Integrated Moving Average) model to make predictions. ARIMA is well-suited for time series data, making it an ideal choice for forecasting Netflix subscription trends.
 
@@ -36,6 +50,17 @@ Predicting subscription trends is crucial for Netflix's success. With accurate f
 ## How to Use
 
 You can explore the project's Intel oneAPI Jupyter notebooks to dive into the data analysis, ARIMA modeling, and interactive visualizations. Feel free to adapt this model to your own dataset or extend its capabilities.
+
+## Installation
+
+To run this project, you will need [numpy,pandas,matplotlib,statsmodels,plotly,sklearn for importing the exponential smoothening,linear regression and naive bayes]. You can install them using the following command:
+
+- !pip install numpy
+- !pip install pandas)
+- !pip install matplotlib
+- !pip install statsmodels
+- !pip install plotly
+- !pip install scikit-learn
 
 ## Contribute
 We welcome contributions to enhance this project. Whether you have ideas for improving the model, adding more interactive features, or refining visualizations, your input is valuable. Let's work together to make this tool even more insightful and user-friendly.
