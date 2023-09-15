@@ -14,6 +14,7 @@ Welcome to the Netflix Subscription Prediction project! In this project, we leve
 - [Why It Matters](#whyitmatters)
 - [How To Use](#howtouse)
 - [Installation](#installation)
+- [Output](#Output)
 - [Contributing](#contributing)
 
 ## Data
@@ -61,6 +62,10 @@ To run this project, you will need [numpy,pandas,matplotlib,statsmodels,plotly,s
 - !pip install statsmodels
 - !pip install plotly
 - !pip install scikit-learn
+
+## Output
+![Screenshot 2023-09-15 100013](https://github.com/Pavankurapati03/Netflix_Subscription_Prediction/assets/124707043/6c281713-3d8f-4973-9fcd-4ddb6030fcd2)
+
 
 ## Contribute
 We welcome contributions to enhance this project. Whether you have ideas for improving the model, adding more interactive features, or refining visualizations, your input is valuable. Let's work together to make this tool even more insightful and user-friendly.
