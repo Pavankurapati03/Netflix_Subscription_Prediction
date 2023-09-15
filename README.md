@@ -17,6 +17,13 @@ Welcome to the Netflix Subscription Prediction project! In this project, we leve
 - [Output](#Output)
 - [Contributing](#contributing)
 
+## Technology Used
+![InteloneAPI](https://github.com/Pavankurapati03/Gold_Price_Prediction/assets/124707043/1f2c22ee-b1ef-4838-8ea5-2df64677d640)
+
+
+The Intel® OneAPI toolkit, it enables models to be trained in a more efficient way and results in faster training times. ARIMA algorithm is used.
+
+
 ## Data
 
 The project uses historical gold price data from reliable sources such as https://statso.io/forecasting-subscriptions-case-study/. This dataset contains information about gold prices over a specific time period and date.
